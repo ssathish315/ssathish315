@@ -29,16 +29,30 @@
 
 # puts Str3
 
-arr1 = [1, 2, 3, 4, 5]
-arr2 = Array.new(10)
-puts arr1.size
-puts arr2.length
+# arr1 = [1, 2, 3, 4, 5]
+# arr2 = Array.new(10)
+# puts arr1.size
+# puts arr2.length
 
-puts arr1.at(2)
+# puts arr1.at(2)
 
-puts arr1.fetch(1)
+# puts arr1.fetch(1)
 
-puts arr1.first
-puts arr1.last
+# puts arr1.first
+# puts arr1.last
 
-puts arr1.take(2)
+# puts arr1.take(2)
+
+# hash1 = { 'name' => 'Sathish', 'Subject' => 'Automation', 'Topic' => 'Ruby' }
+
+# hash2 = { "name": 'Thanish', "Subject": 'Maths', "Topic": 'Geometry' }
+
+# puts hash1['name']
+
+# hash1.each do |key, value|
+#   puts "#{key}:#{value}"
+# end
+
+# hash2.each do |key, value|
+#   puts "#{key}:#{value}"
+# end
